@@ -52,7 +52,7 @@ cd ~/.ssh
 ls id_*.pub
 ~~~
 You should see a file named "id_rsa.pub" or "id_ed25519.pub"  This file would represent
-your default SSH key public.  We wan to copy this content and add it as a SSH key in github
+your default SSH key public.  We want to copy this content and add it as a SSH key in github
 <a href="{{ page.root }}/fig/07.png">
   <img src="{{ page.root }}/fig/07.png" alt="Setting up SSH key" />
 </a>
