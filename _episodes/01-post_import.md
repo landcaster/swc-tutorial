@@ -20,7 +20,7 @@ clone the repository for local editing.
   <img src="{{ page.root }}/fig/04.png" alt="Changing branch in github" />
 </a>
 ## Accessing Mana via Open OnDemand
-Now that the repository has the right defauly branch set, we need to 
+Now that the repository has the right default branch set, we need to 
 get into an environement that we can use to initialize the lesson repository.
 
 > ## Imported repository still needs initialization
