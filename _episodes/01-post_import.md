@@ -29,7 +29,7 @@ get into an environement that we can use to initialize the lesson repository.
 {: .callout}
 
 So that everyone is in a common environment, we will use Open OnDemand and connect
-to a Desktop session on Mana [https://mana.its.hawaii.edu]: https://mana.its.hawaii.edu
+to a Desktop session on Mana [https://mana.its.hawaii.edu](https://mana.its.hawaii.edu)
 > Security
 > An incognito browser sessions is reocmmended for Open Ondemand so that you can "logout" by closing the browser window.
 {: .callout}
