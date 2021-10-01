@@ -42,7 +42,7 @@ For any lesson, you will need to at a minimum provide a correct title
 
 > ## Direcotry layout
 > In case you forget what files and directories do what, you can refer back to 
-> the episode on [lesson organization]: https://carpentries.github.io/lesson-example/03-organization/index.html
+> the episode on [lesson organization](https://carpentries.github.io/lesson-example/03-organization/index.html)
 {: .callout} 
 
 > ## Changing the lesson title
@@ -64,9 +64,9 @@ For any lesson, you will need to at a minimum provide a correct title
 > ## Edit your first episode
 > With a new lesson title it is time to dive into editing an episode.  Go into the introductory episode
 > "01-introduction.md" and change the title, add some questions and add some text where it says fix me.
-> Use some styles to add section headers "##" and other [style]: https://carpentries.github.io/lesson-example/04-formatting/index.html
+> Use some styles to add section headers "##" and other [style](https://carpentries.github.io/lesson-example/04-formatting/index.html)
 > and 
-> [formatting]: https://carpentries.github.io/lesson-example/06-style-guide/index.html
+> [formatting](https://carpentries.github.io/lesson-example/06-style-guide/index.html)
 >
 {: .challenge}
 
