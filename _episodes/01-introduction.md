@@ -30,12 +30,13 @@ get into an environement that we can use to initialize the lesson repository.
 
 So that everyone is in a common environment, we will use Open OnDemand and connect
 to a Desktop session on Mana
-{% include figure.html url="" max-width="30%"
-   file="/fig/01.png"
-   alt="Changing branch in github" caption="" %}
-{% include figure.html url="" max-width="30%"
-   file="/fig/02.png"
-   alt="Changing branch in github" caption="" %}
+
+<a href="{{ page.root }}/fig/01.png">
+  <img src="{{ page.root }}/fig/01.png" alt="Changing branch in github" />
+</a>
+<a href="{{ page.root }}/fig/02.png">
+  <img src="{{ page.root }}/fig/02.png" alt="Changing branch in github" />
+</a>
 
 ## Setup your Mana SSH key for github
 
@@ -48,9 +49,10 @@ ls id_*.pub
 ~~~
 You should see a file named "id_rsa.pub" or "id_ed25519.pub"  This file would represent
 your default SSH key public.  We wan to copy this content and add it as a SSH key in github
-{% include figure.html url="" max-width="30%"
-   file="/fig/07.png"
-   alt="Setting up SSH key" caption="Upper right, click on user icon and go into settings" %}
+<a href="{{ page.root }}/fig/07.png">
+  <img src="{{ page.root }}/fig/07.png" alt="Setting up SSH key" />
+</a>
+Upper right, click on user icon and go into settings
 
 
 > For security some users like to put a password on SSH keys.
