@@ -12,7 +12,7 @@ objectives:
 - "Edit an episode"
 - "Add a an image/figure"
 ---
-## Editing files
+## Text Editors
 Editing the lesson and episodes can take place both directly on github, using the in site editor
 or locally using a basic text editor or Integrated development environment (IDE) like visual studio.
 
