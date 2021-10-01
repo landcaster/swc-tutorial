@@ -45,9 +45,9 @@ For any lesson, you will need to at a minimum provide a correct title
 > the episode on [lesson organization](https://carpentries.github.io/lesson-example/03-organization/index.html)
 {: .callout} 
 
-> ## Changing the lesson title
+> ## Changing the lesson title and set the email
 > With your basic lesson it is time to make it unique and less generic.
-> Your first task is to change the title of your lesson by editing the _config.yml file.
+> Your first task is to change the title of your lesson and change the contact email address by editing the _config.yml file.
 {: .challenge}
 
 > ## Add a new episode
