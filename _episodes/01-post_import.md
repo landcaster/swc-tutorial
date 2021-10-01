@@ -1,7 +1,7 @@
 ---
 title: "Post Import"
-teaching: 0
-exercises: 0
+teaching: 15
+exercises: 10
 questions:
 - "What other house keeping needs to be done?"
 objectives:
