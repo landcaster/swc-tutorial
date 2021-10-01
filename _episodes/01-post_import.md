@@ -59,6 +59,7 @@ your default SSH key public.  We want to copy this content and add it as a SSH k
 Upper right, click on user icon and go into settings
 
 
+> ## SSH key security
 > For security some users like to put a password on SSH keys.
 > On Mana the default key is passwordless, but users can create a differnt 
 > key with a password, jut making sure to not overwrite the existing key.
