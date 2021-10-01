@@ -28,8 +28,8 @@ or locally using a basic text editor or Integrated development environment (IDE)
 > Viewing a markdown file, yaml file or plain text files is possible on github.
 > When viewing those files, you can even edit them and commit changes all in browser
 {: .callout}
-<a href="\{\{ page.root \}\}/fig/10.png">
-  <img src="\{\{ page.root \}\}/fig/10.png" alt="Github edit" />
+<a href="{{ page.root }}/fig/10.png">
+  <img src="{{ page.root }}/fig/10.png" alt="Github edit" />
 </a>
 
 ## Editing files
@@ -71,8 +71,8 @@ For any lesson, you will need to at a minimum provide a correct title
 > Find an image and add it to your repository in the fig directory.  
 > Once it is in the fig directory add it to your second episode. 
 > ~~~
-> <a href="{{ page.root }}/fig/10.png">
->  <img src="{{ page.root }}/fig/10.png" alt="What am I" />
+> <a href="\{\{ page.root \}\}/fig/10.png">
+>  <img src="\{\{ page.root \}\}/fig/10.png" alt="What am I" />
 > </a>
 > ~~~
 {: .challenge}
