@@ -23,14 +23,14 @@ clone the repository for local editing.
 Now that the repository has the right defauly branch set, we need to 
 get into an environement that we can use to initialize the lesson repository.
 
-> Imported repository still needs initialization
+> ## Imported repository still needs initialization
 > The intial imported repository is missing key files to generate pages on github.
 > The initialization step will create these files, but it requires python
 {: .callout}
 
 So that everyone is in a common environment, we will use Open OnDemand and connect
 to a Desktop session on Mana [https://mana.its.hawaii.edu](https://mana.its.hawaii.edu)
-> Security
+> ## Security
 > An incognito browser sessions is reocmmended for Open Ondemand so that you can "logout" by closing the browser window.
 {: .callout}
 
