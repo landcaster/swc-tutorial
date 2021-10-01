@@ -28,8 +28,8 @@ or locally using a basic text editor or Integrated development environment (IDE)
 > Viewing a markdown file, yaml file or plain text files is possible on github.
 > When viewing those files, you can even edit them and commit changes all in browser
 {: .callout}
-<a href="{{ page.root }}/fig/10.png">
-  <img src="{{ page.root }}/fig/10.png" alt="Github edit" />
+<a href="\{\{ page.root \}\}/fig/10.png">
+  <img src="\{\{ page.root \}\}/fig/10.png" alt="Github edit" />
 </a>
 
 ## Editing files
