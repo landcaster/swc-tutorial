@@ -54,7 +54,7 @@ For any lesson, you will need to at a minimum provide a correct title
 > We need to add a new episode for new lesson content. Create a new file in the _episodes folder called
 > "02-figures.md".  
 > > Copy when you can
-> > I find it easier to copy conent or duplicate files when possible.  Why reinvent the whell if someone has 
+> > I find it easier to copy conent or duplicate files when possible.  Why reinvent the wheel if someone has 
 > > alread done it for me.  Instead of a new file, copy/duplicate 01-introduction.md and rename it. Then
 > > change the text and remove tags that are needed.
 > {: .callout}  
