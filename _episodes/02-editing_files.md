@@ -11,6 +11,10 @@ objectives:
 - "Add another episode"
 - "Edit an episode"
 - "Add a an image/figure"
+keypoints:
+ - "Can edit locally or directly on github"
+ - "Some styles provided beyond the basics"
+ - "Don't reinvent the wheel, reuse content when possible"
 ---
 ## Text Editors
 Editing the lesson and episodes can take place both directly on github, using the in site editor
