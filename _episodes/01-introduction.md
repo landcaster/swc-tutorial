@@ -16,10 +16,9 @@ Once the repository has been imported into your github account
 we want to make it simple to be in the right branch when we
 clone the repository for local editing.
 
-{% include figure.html url="" max-width="30%"
-   file="/fig/04.png"
-   alt="Changing branch in github" caption="" %}
-
+<a href="{{ page.root }}/fig/04.png">
+  <img src="{{ page.root }}/fig/04.png" alt="Changing branch in github" />
+</a>
 ## Accessing Mana via Open OnDemand
 Now that the repository has the right defauly branch set, we need to 
 get into an environement that we can use to initialize the lesson repository.
