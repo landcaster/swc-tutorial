@@ -40,7 +40,7 @@ or locally using a basic text editor or Integrated development environment (IDE)
 For any lesson, you will need to at a minimum provide a correct title 
 (_config.yml) and add and edit episodes with possibly figures.
 
-> ## Direcotry layout
+> ## Directory layout
 > In case you forget what files and directories do what, you can refer back to 
 > the episode on [lesson organization](https://carpentries.github.io/lesson-example/03-organization/index.html)
 {: .callout} 
