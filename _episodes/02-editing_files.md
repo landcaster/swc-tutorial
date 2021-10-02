@@ -76,9 +76,11 @@ For any lesson, you will need to at a minimum provide a correct title
 > Find an image and add it to your repository in the fig directory.  
 > Once it is in the fig directory add it to your second episode. 
 > ~~~
-> <a href="\{\{ page.root \}\}/fig/10.png">
->  <img src="\{\{ page.root \}\}/fig/10.png" alt="What am I" />
+> {% raw  %}
+> <a href="{{ page.root }}/fig/10.png">
+>  <img src="{{ page.root }}/fig/10.png" alt="What am I" />
 > </a>
+> {% endraw %}
 > ~~~
 {: .challenge}
 
