@@ -58,6 +58,7 @@ For any lesson, you will need to at a minimum provide a correct title
 > I find it easier to copy conent or duplicate files when possible.  Why reinvent the wheel if someone has 
 > alread done it for me.  Instead of a new file, copy/duplicate 01-introduction.md and rename it. Then
 > change the text and remove tags that are needed.
+> Github doesn't not seem to have a duplicate file function, but you can copy the raw contents of a file and paste it into a new file created using the github menu.
 {: .callout}  
 
 
