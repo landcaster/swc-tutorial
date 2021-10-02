@@ -37,8 +37,8 @@ or locally using a basic text editor or Integrated development environment (IDE)
 
 
 ## Editing files
-For any lesson, you will need to at a minimum provide a correct title 
-(_config.yml) and add and edit episodes with possibly figures.
+For any lesson, you will need to provide a correct title 
+(_config.yml) and add and edit episodes with figures.
 
 > ## Directory layout
 > In case you forget what files and directories do what, you can refer back to 
