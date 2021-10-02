@@ -62,7 +62,7 @@ Upper right, click on user icon and go into settings
 > ## SSH key security
 > For security some users like to put a password on SSH keys.
 > On Mana the default key is passwordless, but users can create a different 
-> key with a password, jut making sure to not overwrite the existing key.
+> key with a password, just making sure to not overwrite the existing key.
 > Using a non-default key is outside the scope of this tutorial.
 {: .callout}
 
