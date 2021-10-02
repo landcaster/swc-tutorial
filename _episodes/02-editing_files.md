@@ -19,6 +19,13 @@ keypoints:
 ## Text Editors
 Editing the lesson and episodes can take place both directly on github, using the in site editor
 or locally using a basic text editor or Integrated development environment (IDE) like visual studio.
+> ## Editing via github
+> Viewing a markdown file, yaml file or plain text files is possible on github.
+> When viewing those files, you can even edit them and commit changes all in browser
+{: .callout}
+<a href="{{ page.root }}/fig/10.png">
+  <img src="{{ page.root }}/fig/10.png" alt="Github edit" />
+</a>
 
 > ## Visual studio code on Mana
 > In our session on Mana, visual studio code is installed and can be used to edit files as well
@@ -28,13 +35,6 @@ or locally using a basic text editor or Integrated development environment (IDE)
   <img src="{{ page.root }}/fig/09.png" alt="Visual studio code" />
 </a>
 
-> ## Editing via github
-> Viewing a markdown file, yaml file or plain text files is possible on github.
-> When viewing those files, you can even edit them and commit changes all in browser
-{: .callout}
-<a href="{{ page.root }}/fig/10.png">
-  <img src="{{ page.root }}/fig/10.png" alt="Github edit" />
-</a>
 
 ## Editing files
 For any lesson, you will need to at a minimum provide a correct title 
