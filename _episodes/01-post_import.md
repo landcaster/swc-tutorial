@@ -53,6 +53,10 @@ ls id_*.pub
 ~~~
 You should see a file named "id_rsa.pub" or "id_ed25519.pub"  This file would represent
 your default SSH key public.  We want to copy this content and add it as a SSH key in github
+~~~
+cat ~/.ssh/id_rsa.pub
+~~~
+Copying can be done by just highlighting the text in your terminal so you can paste it into your github SSH & GPG key list.
 <a href="{{ page.root }}/fig/07.png">
   <img src="{{ page.root }}/fig/07.png" alt="Setting up SSH key" />
 </a>
